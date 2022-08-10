@@ -4,4 +4,4 @@ Hi there I am Mridul Kumar 👋
 - 👨🏻‍💻 Just another React JS developer.
 - 📫 How to reach me: 
   - mail: mridulbrt3@gmail.com
-  - Twitter: @mridulkumar__
+  - Twitter: [@mridulkumar__](https://twitter.com/mridulkumar__)
